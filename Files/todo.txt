@@ -2,9 +2,5 @@ learn
 Drink
 drive
 Clean
-Scroll
-Play
-
-Study PythonClean laptop
-Clean laptops
-
+Play games
+Python
