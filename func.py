@@ -14,5 +14,5 @@ def write_todos(list1, filename=FILEPATH):
         file.writelines(list1)
 
 
-if __name__=="__main__":
+if __name__ == "__main__":
     print(get_todos())
